@@ -1,0 +1,5 @@
+setuptools>=65.5.0
+numpy>=1.26.0
+pydub==0.25.1
+PySide6>=6.6.0
+opencv-python>=4.8.0
